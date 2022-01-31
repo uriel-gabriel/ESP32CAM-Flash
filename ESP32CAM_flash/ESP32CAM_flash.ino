@@ -25,3 +25,7 @@ void loop() //Función bucle
   digitalWrite (FLASH, LOW); //Apagar led
   delay (500); //Espera de 2 segundos
 } //Fin de void loop()
+
+// probando cambios en los archivos
+//lo más importante es que se reflejen en la aplicación de escritorio
+
